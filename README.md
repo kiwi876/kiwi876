@@ -1,5 +1,5 @@
 
-Yo sup, I'm Keaton
+Yo sup
 
 -------------------------------------------------------------------------------------------
 
@@ -10,8 +10,8 @@ to that end I currently work in the logistics automation industry designing and 
 
 Stuff I Do On The Weekends
 --------------------------------------------------------------------------------------------
-- Am currently learning a bunch of programing biassed stuff such as several diffrent programing languages (python, c++, java) 
-- Also creating DIY devices to intergrate into hass IO (home assistant)
+- Home Labing
+- Mechatronic DIY projects
 ---------------------------------------------------------------------------------------------
 
 To Do Projects
